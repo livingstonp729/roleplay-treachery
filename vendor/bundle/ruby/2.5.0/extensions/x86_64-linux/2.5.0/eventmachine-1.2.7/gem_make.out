@@ -1,0 +1,16 @@
+current directory: /home/l/livingstonp/cs302S2019/final/roleplay-treachery/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20190225-5789-1yim5dm.rb extconf.rb
+creating Makefile
+
+current directory: /home/l/livingstonp/cs302S2019/final/roleplay-treachery/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/l/livingstonp/cs302S2019/final/roleplay-treachery/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/l/livingstonp/cs302S2019/final/roleplay-treachery/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190225-5789-1iyzchl
