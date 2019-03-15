@@ -61,6 +61,9 @@ kramdown:
   # Prevent IDs from being added to h1-h6 tags
   auto_ids: false
 
+# Adding comments with Disqus
+comments: true
+
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
 
