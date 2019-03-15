@@ -4,9 +4,8 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Hey all, welcome to Roleplay Treachery, a site dedicated to talking about
+  all sorts of games, both video and tabletop and their design, story, and
+  anything else you might think of! My blog with my personal thoughts is over
+  [here](https://roleplaytreachery.netlify.com/blog)!
 ---
